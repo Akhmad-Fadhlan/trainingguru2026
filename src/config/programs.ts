@@ -61,8 +61,7 @@ export const programsData: ProgramItem[] = [
         items: [
           "Mengenal motor DC dan pengendaliannya",
           "Mengenal motor servo dan pengendaliannya",
-          "Mengenal motor driver (pengatur arah dan kecepatan motor)",
-          "Komunikasi I2C (misalnya LCD I2C)",
+          "Mengenal motor driver (pengatur arah dan kecepatan motor)", 
         ],
       },
       {
