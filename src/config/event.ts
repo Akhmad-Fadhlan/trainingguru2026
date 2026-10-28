@@ -58,7 +58,7 @@ export const eventConfig: EventConfig = {
   registrationUrl: "https://bit.ly/tgnasional26",
   logoSrc: "/images/idn-logo.png", // Menggunakan file logo resmi yang diunggah
   logoAlt: "Logo IDN Boarding School",
-  posterImage: "/images/poster-resmi.png",
-  posterAlt: "Poster resmi Training Guru Nasional 2026",
+  posterImage: "/images/poster-resmi.jpg",
+  posterAlt: "Poster Training Guru Nasional 2026",
   timeZone: "Asia/Jakarta",
 };
