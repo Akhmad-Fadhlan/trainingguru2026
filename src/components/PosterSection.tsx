@@ -60,7 +60,7 @@ export default function PosterSection() {
               <div className="relative aspect-[4/5] w-full bg-surface-subtle">
                 <Image
                   src={eventConfig.posterImage}
-                  alt={eventConfig.posterAlt || "Poster Resmi Training Guru Nasional 2026"}
+                  alt={eventConfig.posterAlt || "Poster Training Guru Nasional 2026"}
                   fill
                   sizes="(max-width: 640px) 100vw, 448px"
                   className="object-contain"
@@ -96,7 +96,7 @@ export default function PosterSection() {
               </div>
 
               <h3 className="mt-5 text-base font-bold text-text-main">
-                Poster Resmi Training Guru Nasional 2026
+                Training Guru Nasional 2026
               </h3>
 
               <p className="mt-2 text-sm text-text-muted leading-relaxed max-w-sm mx-auto">
@@ -126,7 +126,7 @@ export default function PosterSection() {
           >
             <div className="flex items-center justify-between pb-3 border-b border-border-subtle">
               <h4 className="text-sm font-bold text-text-main">
-                {eventConfig.posterAlt || "Poster Resmi Training Guru Nasional 2026"}
+                {eventConfig.posterAlt || "Poster Training Guru Nasional 2026"}
               </h4>
               <button
                 type="button"
@@ -141,7 +141,7 @@ export default function PosterSection() {
             <div className="relative mt-3 aspect-[4/5] w-full bg-surface-muted rounded-xl overflow-hidden">
               <Image
                 src={eventConfig.posterImage}
-                alt={eventConfig.posterAlt || "Poster Resmi Training Guru Nasional 2026"}
+                alt={eventConfig.posterAlt || "Poster Training Guru Nasional 2026"}
                 fill
                 sizes="(max-width: 768px) 100vw, 672px"
                 className="object-contain"
